@@ -1,12 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
+</br>
 
-**Here are some ideas to get you started:**
+[![Twitter](https://img.shields.io/twitter/follow/nodescommunity?style=for-the-badge&labelColor=gray&color=ae73fa&logo=twitter&logoColor=white&label=follow)](https://twitter.com/nodescommunity)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=Nodescommunity&logo=nodescommunity&style=social&up_color=orange&up_message=online&url=https%3A%2F%2Fnodescommunity.id)](https://nodescommunity.id)
+
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nodescommunity.id/)
+
+
+---
+
+<br />
+
+
+</div>
+
